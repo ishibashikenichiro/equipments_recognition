@@ -1,2 +1,2 @@
 # equipments_recognition
-bok + svm�̕��̔F���L�q
+bok + svmを利用した物体認識記述
